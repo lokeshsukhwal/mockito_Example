@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StudentTest" project="mockito_example" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.app.lokesh.test.StudentTest" time="0.163" displayname="StudentTest" uniqueid="[engine:junit-jupiter]/[class:com.app.lokesh.test.StudentTest]">
+    <testcase name="testStudent" classname="com.app.lokesh.test.StudentTest" time="0.163" displayname="testStudent()" uniqueid="[engine:junit-jupiter]/[class:com.app.lokesh.test.StudentTest]/[method:testStudent()]"/>
+  </testsuite>
+</testrun>
